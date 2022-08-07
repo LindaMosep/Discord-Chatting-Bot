@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RoguelandsDiscordBot": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
